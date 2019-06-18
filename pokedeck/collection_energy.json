@@ -1,0 +1,20 @@
+[
+  {
+    "name": "[Energy Card] Psychic",
+    "cardType": "energy",
+    "specialType": "Psychic",
+    "cardNb": -5
+  },
+  {
+    "name": "[Energy Card] Grass",
+    "cardType": "energy",
+    "specialType": "Grass",
+    "cardNb": -1
+  },
+  {
+    "name": "[Energy Card] Water",
+    "cardType": "energy",
+    "specialType": "Water",
+    "cardNb": -3
+  }
+]
